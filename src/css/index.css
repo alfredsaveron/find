@@ -196,3 +196,19 @@ nav[data-menu-type="desktop"] {
     color: #f8f8f8;
   }
 }
+
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+::-webkit-scrollbar-track {
+  background: #141414; 
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #242424; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #242424; 
+}
