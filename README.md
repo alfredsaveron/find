@@ -14,6 +14,12 @@ This is the classic linking project, it offers an easier and nicer interface wit
 
 > Unlimited vanity urls: find.tk/username or whatever you want!
 
+### 🎨 Available Services
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/745937151094423642/998677459295817860/chrome_ToxRcHRXZ5.gif" />
+</p>
+
 ### 🧬 Technologies:
 
 [![Languages](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
