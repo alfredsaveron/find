@@ -5,6 +5,10 @@ This is the classic linking project, it offers an easier and nicer interface wit
 ### 📚 Demo
 
 <p align="center">
+  <img src="https://cdn.discordapp.com/attachments/745937151094423642/998667861662896239/chrome_g08QFIL1hJ.png" />
+</p>
+
+<p align="center">
   <img src="https://cdn.discordapp.com/attachments/745937151094423642/998661430947622992/chrome_e5aDCTskis.gif" />
 </p>
 
