@@ -15,7 +15,7 @@ title: "[NEW] <Your Name's profile!>"
 ### Links 🔗
 - **Portfolio** [Your non-nsfw portfolio website here]
 - **Twitter** [twitter.com/username]
-- **Github** [github.com/username]
+- **GitHub** [github.com/username]
 - **Discord** [discord.com/users/yourid]
 - **Reddit** [reddit.com/user/username]
 - **Spotify** [open.spotify.com/user/yourid]
