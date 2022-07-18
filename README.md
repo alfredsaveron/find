@@ -1,6 +1,6 @@
 # 🌠 Find Profiles (find.tk)
 
-This is the classic linking project, it offers an easier and nicer interface with customizable details such as colors and links for sure. Finally here's cool links!
+Classic linking project, it offers an easier and nicer interface with customizable details such as colors and links for sure. Finally here's cool links!
 
 ### 📚 Demo
 
