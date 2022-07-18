@@ -1,2 +1,17 @@
-# findtk
-🌠 Explore your customizable profile and share it with others.
+# 🌠 Find Profiles (find.tk)
+
+This is the classic linking project, it offers an easier and nicer interface with customizable details. Finally here's cool links!
+
+### 📚 Demo
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/745937151094423642/998661430947622992/chrome_e5aDCTskis.gif" />
+</p>
+
+> Unlimited vanity urls: find.tk/username or whatever you want!
+
+### 🧬 Technologies:
+
+[![Languages](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+This website automatically deploys on [Netlify](https://find.tk) and is available on [find.tk](https://find.tk/)
