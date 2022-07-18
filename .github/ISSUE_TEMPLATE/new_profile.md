@@ -1,7 +1,7 @@
 ---
-Name: New Profile
-About: Create a request for new linking profile
-Title: "[NEW] <*Your Name*'s profile!>"
+name: New Profile
+about: Create a request for new linking profile
+title: "[NEW] <Your Name's profile!>"
 ---
 
 # Your Informations
