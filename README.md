@@ -14,4 +14,6 @@ This is the classic linking project, it offers an easier and nicer interface wit
 
 [![Languages](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
+> Yeah, sounds weird but there's only pure HTML and pure CSS!
+
 This website automatically deploys on [Netlify](https://find.tk) and is available on [find.tk](https://find.tk/)
