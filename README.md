@@ -22,7 +22,7 @@ Classic linking project, it offers an easier and nicer interface with customizab
 
 > More soon! (ver1.1)
 
-### 🧬 Technologies:
+### 🧬 Technologies
 
 [![Languages](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
