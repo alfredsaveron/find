@@ -6,4 +6,4 @@ mobileMenuToggle.addEventListener("click", () => {
   mobileMenu.classList.toggle("open");
 });
 
-// Soon there'll be new code lines for interior good design.
+// Soon there'll be new code lines for interior good design with cool pure javascript.
