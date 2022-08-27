@@ -24,7 +24,7 @@ Classic linking project, it offers an easier and nicer interface with customizab
 
 ### 🧬 Technologies
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,scss)](https://skillicons.dev)
 
 > Yeah, sounds weird but there's only pure HTML and pure CSS!
 
