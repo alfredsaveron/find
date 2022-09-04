@@ -104,3 +104,7 @@ img[alt="findimg"] + h3 {
 ::-webkit-scrollbar-thumb:hover {
   background: #242424; 
 }
+
+::selection {
+  background: #444444;
+}
