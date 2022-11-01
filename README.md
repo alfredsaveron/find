@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/745937151094423642/1036980969439232151/1667305899840.png" />
+</p>
+
 # 🌠 Find Profiles (find.tk)
 
 Classic linking project, it offers an easier and nicer interface with customizable details such as colors and links for sure. Finally here's cool links!
