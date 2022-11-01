@@ -162,7 +162,7 @@ opacity: 55%;
 nav[data-menu-type="desktop"] li a {
   padding: 8px 24px;
   display: block;
-  border-radius: 24px;
+  border-radius: 10px;
   text-decoration: none;
   color: inherit;
 }
