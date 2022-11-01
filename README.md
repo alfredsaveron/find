@@ -24,7 +24,7 @@ Classic linking project, it offers an easier and nicer interface with customizab
   <img src="https://cdn.discordapp.com/attachments/745937151094423642/998677459295817860/chrome_ToxRcHRXZ5.gif" />
 </p>
 
-> More soon! (ver1.1)
+> **Warning** More soon! (ver1.1)
 
 ### 🧬 Technologies
 
