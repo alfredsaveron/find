@@ -1,1 +1,3 @@
-p
+git rm -r --cached folder
+git add .
+/p
