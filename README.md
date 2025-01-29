@@ -16,8 +16,8 @@ You can host **findee** on platforms like:
 - **Your own server**  
 
 ## 🎨 Customization  
-- Edit the **config file** to change links, titles, and styles.  
-- Modify the **CSS/HTML** to match your branding.  
+- Edit the **css** & **js** to change links, titles, and styles.  
+- Modify the **CSS/HTML** to match your branding/style or whatever.  
 - Add custom fonts, colors, or animations if needed.  
 
 ## 🛠 Contributing  
