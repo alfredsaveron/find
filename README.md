@@ -1,3 +1,5 @@
+![Banner](https://github.com/alfredsaveron/findee/blob/main/img/screenshot-findee.png)
+
 # findee 🌍🔗  
 
 **findee** is a simple, sleek, and open-source **Linktree alternative**. If you want to create a personal link page without relying on third-party services.
@@ -19,6 +21,8 @@ You can host **findee** on platforms like:
 - Edit the **css** & **js** to change links, titles, and styles.  
 - Modify the **CSS/HTML** to match your branding/style or whatever.  
 - Add custom fonts, colors, or animations if needed.  
+
+![Contributing](https://github.com/alfredsaveron/findee/blob/main/img/code-findee.png)
 
 ## 🛠 Contributing  
 Pull requests, issues, and suggestions are always welcome! Feel free to fork the project and improve it.  
