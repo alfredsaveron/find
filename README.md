@@ -24,4 +24,4 @@ You can host **findee** on platforms like:
 Pull requests, issues, and suggestions are always welcome! Feel free to fork the project and improve it.  
 
 ## 📜 License  
-This project is open-source under the **MIT License**. [Here](https://github.com/alfredsaveron/findee/blob/main/LICENSE.md)
+This project is open-source under the [**MIT License**](https://github.com/alfredsaveron/findee/blob/main/LICENSE.md).
