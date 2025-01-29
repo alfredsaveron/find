@@ -1,35 +1,27 @@
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/745937151094423642/1036980969439232151/1667305899840.png" />
-</p>
+# findee 🌍🔗  
 
-# 🌠 Find Profiles (find.tk)
+**findee** is a simple, sleek, and open-source **Linktree alternative**. If you want to create a personal link page without relying on third-party services, this project is for you!  
 
-Classic linking project, it offers an easier and nicer interface with customizable details such as colors and links for sure. Finally here's cool links!
+## 🚀 Features  
+✅ **Lightweight & Fast** – No unnecessary bloat, just what you need.  
+✅ **Customizable** – Easily tweak the design and layout to match your style.  
+✅ **Self-Hosted** – Take full control over your link page.  
+✅ **Open Source** – Free to use, modify, and improve!  
 
-### 📚 Demo
+### 4️⃣ Deploy  
+You can host **findee** on platforms like:  
+- **Vercel** (`vercel deploy`)  
+- **Netlify** (recommended)  
+- **GitHub Pages**  
+- **Your own server**  
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/745937151094423642/998667861662896239/chrome_g08QFIL1hJ.png" />                          
-</p>
+## 🎨 Customization  
+- Edit the **config file** to change links, titles, and styles.  
+- Modify the **CSS/HTML** to match your branding.  
+- Add custom fonts, colors, or animations if needed.  
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/745937151094423642/998661430947622992/chrome_e5aDCTskis.gif" />
-</p>
+## 🛠 Contributing  
+Pull requests, issues, and suggestions are always welcome! Feel free to fork the project and improve it.  
 
-> Unlimited vanity urls: find.tk/username or whatever you want!
-
-### 🎨 Available Services
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/745937151094423642/998677459295817860/chrome_ToxRcHRXZ5.gif" />
-</p>
-
-> **Warning** More soon! (ver1.4)
-
-### 🧬 Technologies
-
-[![Languages](https://skillicons.dev/icons?i=html,css,js,scss)](https://skillicons.dev)
-
-> Yeah, sounds weird but there's only pure HTML and pure CSS!
-
-This website automatically deploys on [Netlify](https://find.tk) and is available on [find.tk](https://find.tk/)
+## 📜 License  
+This project is open-source under the **MIT License**. [Here](https://github.com/alfredsaveron/findee/blob/main/LICENSE.md)
