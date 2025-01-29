@@ -25,7 +25,7 @@ You can host **findee** on platforms like:
 ![Contributing](https://github.com/alfredsaveron/findee/blob/main/img/code-findee.png)
 
 ## 🛠 Contributing  
-Pull requests, issues, and suggestions are always welcome! Feel free to fork the project and improve it.  
+Pull requests, issues, and suggestions are always welcome! Feel free to fork the project and improve it. 
 
 ## 📜 License  
 This project is open-source under the [**MIT License**](https://github.com/alfredsaveron/findee/blob/main/LICENSE.md).
