@@ -1,6 +1,6 @@
 # findee 🌍🔗  
 
-**findee** is a simple, sleek, and open-source **Linktree alternative**. If you want to create a personal link page without relying on third-party services, this project is for you!  
+**findee** is a simple, sleek, and open-source **Linktree alternative**. If you want to create a personal link page without relying on third-party services.
 
 ## 🚀 Features  
 ✅ **Lightweight & Fast** – No unnecessary bloat, just what you need.  
